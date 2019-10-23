@@ -1,0 +1,6 @@
+{
+	"editor.insertSpaces": false,
+	"files.associations": {
+    "*.lua": "lua"
+  }
+}
